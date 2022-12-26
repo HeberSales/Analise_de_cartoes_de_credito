@@ -6,12 +6,12 @@ Foi possível responder algumas perguntas, fazer a limpeza e o tratamento dos da
 
 ## **Conclusão:**
 
-- Foi possivel fazer o tratamento dos daods e analisar que não possui itens duplicados e valores ausentes.
+- Foi possível fazer o tratamento dos dados e analisar que não possui itens duplicados e valores ausentes.
 
-- Com base nos dados foi possivel ver que entre os usuários **52,51%** eram **Mulheres** e **47,48%** eram **Homens**, sendo o tipo de cartão com mais usuários o **Silver**.
+- Com base nos dados obtidos foi possível ver que entre os usuários **52,51%** eram **Mulheres** e **47,48%** eram **Homens**, sendo o tipo de cartão com mais usuários o **Silver**.
     
-- Enquanto mulheres tiveram mais gastos com **Comidas**, os homens gastaram mais com **Combustivel**.
+- Enquanto mulheres tiveram mais gastos com **Comidas**, os homens gastaram mais em **Combustivel**.
      
-- O dia que teve mais pessoas utilizando seus cartões, foi de 65 pessoas. Enquanto o que teve menos, foram de 23 pessoas. Obtendo uma média de 43 usuários por dia.
+- O dia que teve mais pessoas utilizando seus cartões, foi de 65. Enquanto o que teve menos, foram de 23 pessoas. Obtendo uma média de 43 usuários por dia.
     
 - Pode se concluir que mulheres gastam mais que homens mesmo não tendo uma grande diferença entre a quantidade de homens e mulheres que utilizam o cartão de crédito.
